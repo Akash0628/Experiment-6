@@ -21,15 +21,16 @@ Iref=0.55ma/2=0.277mA
 ![CM ckt](https://github.com/user-attachments/assets/88a34dcf-90f5-474a-a6de-2aa47ed16d45)
 
 #### Case-1 1:1
-| Parameters  |
-------------------------------------
-|             |
-|             |
-|
-|
-|
-|
+| Parameters | M1 | M2| M3 |
+|------------|----|---|----|
+| Model      |PMOS | PMOS | NMOS |
+| Length      | 180nm | 180nm |180nm |
+| Width      | 20um | 20um |20um |
+| Expected Current | 0.277mA |0.277mA | 0.277mA |
 
+##### DC Analysis
+
+![CM 11 DC](https://github.com/user-attachments/assets/c8d182d2-2a26-4010-ad27-3d6aa4f5dcfa)
 
 
 
