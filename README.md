@@ -32,8 +32,8 @@ Iref=0.55ma/2=0.277mA
 
 ![CM 11 DC](https://github.com/user-attachments/assets/c8d182d2-2a26-4010-ad27-3d6aa4f5dcfa)
 
-
-
+#### Case-2 2:2
+| Parameters | 
 
 
 
