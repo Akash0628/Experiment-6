@@ -43,7 +43,7 @@ Iref=0.55ma/2=0.277mA
 
 ![CM 11 DC](https://github.com/user-attachments/assets/c8d182d2-2a26-4010-ad27-3d6aa4f5dcfa)
 
-#### Case-3
+#### Case-2
 | Parameters | M1 | M2| M3 |
 |------------|----|---|----|
 | Model      |PMOS | PMOS | NMOS |
@@ -55,7 +55,7 @@ Iref=0.55ma/2=0.277mA
 
 ![CM 500nm dc](https://github.com/user-attachments/assets/8de236d7-c3d2-423e-86f1-5b561723c0b1)
 
-#### Case-2 
+#### Case-3
 | Parameters | M1 | M2| M3 |
 |------------|----|---|----|
 | Model      |PMOS | PMOS | NMOS |
