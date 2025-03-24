@@ -20,7 +20,7 @@ Iref=0.55ma/2=0.277mA
 
 ![CM ckt](https://github.com/user-attachments/assets/88a34dcf-90f5-474a-a6de-2aa47ed16d45)
 
-#### Case-1 1:1
+#### Case-1
 | Parameters | M1 | M2| M3 |
 |------------|----|---|----|
 | Model      |PMOS | PMOS | NMOS |
@@ -32,8 +32,15 @@ Iref=0.55ma/2=0.277mA
 
 ![CM 11 DC](https://github.com/user-attachments/assets/c8d182d2-2a26-4010-ad27-3d6aa4f5dcfa)
 
-#### Case-2 2:2
-| Parameters | 
+#### Case-2 
+| Parameters | M1 | M2| M3 |
+|------------|----|---|----|
+| Model      |PMOS | PMOS | NMOS |
+| Length      | 500nm | 500nm |500nm |
+| Width      | 33um | 33um |33um |
+| Expected Current | 0.277mA |0.277mA | 0.277mA |
 
+##### DC Analysis
 
+![CM 500nm dc](https://github.com/user-attachments/assets/8de236d7-c3d2-423e-86f1-5b561723c0b1)
 
