@@ -19,6 +19,17 @@ Iref=0.55ma/2=0.277mA
 ## Circuit Diagram :-
 
 ![CM ckt](https://github.com/user-attachments/assets/88a34dcf-90f5-474a-a6de-2aa47ed16d45)
+#### For 1:1
+
+##### DC Analysis
+
+
+
+#### For 1:2
+
+##### DC Analysis
+
+
 
 #### Case-1
 | Parameters | M1 | M2| M3 |
@@ -43,4 +54,24 @@ Iref=0.55ma/2=0.277mA
 ##### DC Analysis
 
 ![CM 500nm dc](https://github.com/user-attachments/assets/8de236d7-c3d2-423e-86f1-5b561723c0b1)
+
+#### Case-2 
+| Parameters | M1 | M2| M3 |
+|------------|----|---|----|
+| Model      |PMOS | PMOS | NMOS |
+| Length      | 1um | 1um |1um |
+| Width      | 33um | 33um |33um |
+| Expected Current | 0.277mA |0.277mA | 0.277mA |
+
+##### DC Analysis 
+
+### Differential amplifier with current mirror
+
+##### DC Analysis 
+
+##### AC Analysis 
+
+##### Transient Analysis 
+
+### Inference 
 
